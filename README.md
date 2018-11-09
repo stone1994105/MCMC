@@ -3,6 +3,7 @@ In this project, we use the Markov Chain Monte Carlo(MCMC) technique to reproduc
 
 For more details, see the "Project_2.ipynb" file.
 
-Reference 
+Reference
+
 https://arxiv.org/pdf/astro-ph/9812133.pdf
 Perlmutter, S., Aldering, G., Goldhaber, G., Knop, R. A., Nugent, P., Castro, P. G., ... & Hook, I. M. (1999). Measurements of Ω and Λ from 42 high-redshift supernovae. The Astrophysical Journal, 517(2), 565.
